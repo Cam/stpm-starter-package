@@ -2,6 +2,11 @@
   "name": "@Cam/stpm-starter-package",
   "version": "1.0.1",
   "publishConfig": {
+    "access": "public",
     "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cam/stpm-starter-package.git"
   }
 }
