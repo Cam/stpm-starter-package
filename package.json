@@ -1,5 +1,5 @@
 {
-  "name": "@cam/stpm-starter-package",
+  "name": "@Cam/stpm-starter-package",
   "version": "1.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
