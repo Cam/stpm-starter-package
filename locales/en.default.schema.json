@@ -1,0 +1,22 @@
+{
+	"settings_schema": {
+    "colors": {
+			"name": "Colors",
+			"settings": {
+				"color_text": {
+					"label": "Text Color"
+				}
+			}
+		}
+  },
+	"sections": {
+		"text-banner": {
+			"name": "Text Banner",
+			"settings": {
+        "heading": {
+          "label": "Heading"
+        }
+      }
+    }
+  }
+}

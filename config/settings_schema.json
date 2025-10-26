@@ -1,0 +1,13 @@
+[
+	{
+		"name": "t:settings_schema.colors.name",
+		"settings": [
+      {
+        "type": "color",
+        "id": "color_text",
+        "default": "#333333",
+        "label": "t:settings_schema.colors.settings.color_text.label"
+      }
+    ]
+	}
+]
