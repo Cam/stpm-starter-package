@@ -1,6 +1,9 @@
 {
   "name": "@Cam/stpm-starter-package",
   "version": "1.0.1",
+  "stpm": {
+    "type": "native"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
